@@ -9,7 +9,7 @@
 
 <body>
     <h2>Hitung Luas Segitiga</h2>
-    <form action="hitung_luas.php" method="POST">
+    <form action="processHitungLuas.php" method="POST">
         <label for="alas">Alas Segitiga:</label><br>
         <input type="number" id="alas" name="alas" required><br><br>
 
